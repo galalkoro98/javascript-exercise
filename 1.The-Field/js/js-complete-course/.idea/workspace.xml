@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="069a7c33-4ab8-4fa6-8ddb-d22bdea8c83c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/00-readit-fixit-writeit/01-Read-It/01/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-readit-fixit-writeit/01-Read-It/01/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/00-readit-fixit-writeit/01-Read-It/01/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-readit-fixit-writeit/01-Read-It/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/00-readit-fixit-writeit/01-Read-It/01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-base/01-var-alert/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/01-var-alert/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/02-manipulate-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/02-manipulate-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/03-walk-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/03-walk-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/04-walk-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/04-walk-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/05-walk-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/05-walk-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/06-find-in-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/06-find-in-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/07-filter-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/07-filter-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/08-array-includes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/08-array-includes/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/09-reduce-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/09-reduce-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/10-dedupe-array-Optional/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/10-dedupe-array-Optional/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/11-rand-array-stats-Optional/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/11-rand-array-stats-Optional/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/01-select-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/01-select-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/02-select-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/02-select-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/03-select-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/03-select-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/04-attr-create/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/04-attr-create/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/05-hover-image/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/05-hover-image/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/06-generate-table-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/06-generate-table-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-fetch/01-list-to-console/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-fetch/01-list-to-console/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-fetch/05-delete-Optional/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-fetch/05-delete-Optional/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1yivnJOHTsWFbL5jPBiE7uUrN2G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/BeCode/JS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="069a7c33-4ab8-4fa6-8ddb-d22bdea8c83c" name="Default Changelist" comment="" />
+      <created>1632747388566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632747388566</updated>
+      <workItem from="1632747389596" duration="3106000" />
+      <workItem from="1632829957959" duration="17000" />
+      <workItem from="1656359834012" duration="796000" />
+      <workItem from="1657128351450" duration="12613000" />
+      <workItem from="1657179893497" duration="2825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
